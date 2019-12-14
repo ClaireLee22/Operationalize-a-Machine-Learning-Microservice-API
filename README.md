@@ -22,7 +22,7 @@ Deploy a containerized Python flask application to serve out predictions (infere
 * Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
 
-#### Running `app.py`
+### Running `app.py`
 
 1. Standalone:  `python app.py`
 2. Run in Docker:  `./run_docker.sh`
