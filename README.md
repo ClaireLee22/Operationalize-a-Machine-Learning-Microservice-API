@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API/tree/master.svg?style=svg)](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API/tree/master)
+[![CircleCI](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://circleci.com/gh/ClaireLee22/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
