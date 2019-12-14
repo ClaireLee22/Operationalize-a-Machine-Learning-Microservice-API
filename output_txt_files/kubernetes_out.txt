@@ -1,0 +1,7 @@
+Error from server (AlreadyExists): pods "mlmicroserviceapi" already exists
+NAME                     READY   STATUS    RESTARTS   AGE
+mlapi-5bfd57468d-cmgp5   1/1     Running   0          118m
+mlmicroserviceapi        1/1     Running   0          50s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
